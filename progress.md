@@ -21,7 +21,7 @@
 |Хацкевич Д.В.|  |![0%](https://progress-bar.dev/0/?title=0)|
 |Шерстянников С.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
 |Шестернина С.Е.|  |![0%](https://progress-bar.dev/0/?title=0)|
-![изображение](https://github.com/ilya-iszf/cpp_RDB/assets/93968326/66ca3682-60e6-4a62-baad-3fa970d7d57d)
+
 
 
 
