@@ -11,7 +11,7 @@
 |---|--:|--|
 |Валиулин М.В.|  |![0%](https://progress-bar.dev/0/?title=0)|
 |Гагарин С.И.|  |![0%](https://progress-bar.dev/0/?title=0)|
-|Грудинин С.С.|  :+1::fire: |![66%](https://progress-bar.dev/66/?title=14)|
+|Грудинин С.С.|  :+1::fire::fire:|![114%](https://progress-bar.dev/114/?title=зчт)|
 |Емельяненко Е.А.|  :+1::+1::+1::star::fire:|![123%](https://progress-bar.dev/123/?title=зчт)|
 |Калашников В.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
 |Койчуманов К.Т.|  :+1::+1:|![47%](https://progress-bar.dev/47/?title=10)|
@@ -21,6 +21,7 @@
 |Хацкевич Д.В.|  |![0%](https://progress-bar.dev/0/?title=0)|
 |Шерстянников С.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
 |Шестернина С.Е.|  |![0%](https://progress-bar.dev/0/?title=0)|
+
 
 
 
