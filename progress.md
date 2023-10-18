@@ -16,11 +16,12 @@
 |Калашников В.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
 |Койчуманов К.Т.|  :+1::+1::+1:|![66%](https://progress-bar.dev/66/?title=14)|
 |Пирогов А.А.|  :+1::+1:|![57%](https://progress-bar.dev/57/?title=12)|
-|Рябинова К.О.|  |![0%](https://progress-bar.dev/0/?title=0)|
+|Рябинова К.О.|  |![14%](https://progress-bar.dev/14/?title=3)|
 |Свешников Д.А.|  :+1::+1::+1::star:|![76%](https://progress-bar.dev/76/?title=16)|
 |Хацкевич Д.В.|  |![0%](https://progress-bar.dev/0/?title=0)|
 |Шерстянников С.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
 |Шестернина С.Е.|  |![0%](https://progress-bar.dev/0/?title=0)|
+
 
 
 
