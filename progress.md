@@ -18,9 +18,10 @@
 |Пирогов А.А.|  :+1::+1::+1:|![76%](https://progress-bar.dev/76/?title=16)|
 |Рябинова К.О.|  |![14%](https://progress-bar.dev/14/?title=3)|
 |Свешников Д.А.|  :+1::+1::+1::star:|![76%](https://progress-bar.dev/76/?title=16)|
-|Хацкевич Д.В.|  |![0%](https://progress-bar.dev/0/?title=0)|
+|Хацкевич Д.В.|  |![9%](https://progress-bar.dev/9/?title=2)|
 |Шерстянников С.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
 |Шестернина С.Е.|  |![0%](https://progress-bar.dev/0/?title=0)|
+
 
 
 
