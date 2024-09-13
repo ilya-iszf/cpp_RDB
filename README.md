@@ -1,15 +1,12 @@
-# Новости 
-прискорбно, но посещаемость и качество усвоения материала упали. 
-Оценка по предмету будет ставиться после беседы: я попрошу <ins>каждого</ins> выборочно объяснить мне код из заданий, что были сданы. Полагаю тем, кто разобрался в материале и писал программы сам, беспокоиться не о чем.
-
-# Курс программирования для группы РДб-20
+# Курс программирования для группы РДб-21
+Итоговую оценку получают те, кто набрал [21 балл](progress.md) за выполнение [заданий](tasks.md). Пропуск 1 занятия снимает 1 балл.
 
 # Литература
 [Герберт Шилдт. C++ для начинающих](https://disk.yandex.ru/i/K8rqnCX_QZ2hQw)
 
 [Бьерн Страуструп. Язык программирования С++](https://disk.yandex.ru/i/cEOSIjkIK_F7rQ)
 
-[Онлайн-курс по основам С++](https://www.youtube.com/watch?v=TQyIJ4xHOEE&list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&index=4) 
+[Курс по основам С++ (youtube)](https://www.youtube.com/watch?v=TQyIJ4xHOEE&list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&index=4) 
 
 # Приложения
 [Git (система управления версиями)](https://git-scm.com/download/win)
@@ -18,7 +15,7 @@
 
 [Среда разработки Code::Blocks](http://www.codeblocks.org/downloads/binaries/#imagesoswindows48pnglogo-microsoft-windows). Скачивайте версию, включающую mingw. Например codeblocks-20.03mingw-setup.exe.
 
-# Об ошибках при написании программ на С++
+# Решение проблем запуска программ на С++
 Флаги линкера для компиляции запускаемых файлов:
 ```
 -static
