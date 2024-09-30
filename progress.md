@@ -10,15 +10,15 @@
 |ФИО| доп. | Выполнено|
 |---|--:|--|
 |Гусаков С.И.|  |![0%](https://progress-bar.dev/0/?title=0)|
-|Емельяненко Е.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
+|Емельяненко Е.А.|  |![0%](https://progress-bar.dev/0/?title=-1&color=ff0000)|
 |Землянушнов Я.И.|  |![0%](https://progress-bar.dev/0/?title=0)|
-|Калашников В.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
+|Калашников В.А.|  |![0%](https://progress-bar.dev/0/?title=-1&color=ff0000)|
 |Кокташев А.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
 |Конопелько Д.В.|  |![0%](https://progress-bar.dev/0/?title=0)|
 |Кузнецов А.Е.|  |![0%](https://progress-bar.dev/0/?title=0)|
-|Мансуров Б.Р.|  |![0%](https://progress-bar.dev/0/?title=0)|
-|Соколов В.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
+|Мансуров Б.Р.|  |![4%](https://progress-bar.dev/4/?title=1)|
+|Соколов В.А.|  |![0%](https://progress-bar.dev/0/?title=-1&color=ff0000)|
 |Тубчинов А.В.|  |![0%](https://progress-bar.dev/0/?title=0)|
 |Тугов Д.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
 |Шерстянников С.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
-|Шестернина С.Е.|  |![0%](https://progress-bar.dev/0/?title=0)|
+|Шестернина С.Е.|  |![0%](https://progress-bar.dev/0/?title=-1&color=ff0000)|
