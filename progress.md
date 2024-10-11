@@ -11,7 +11,7 @@
 |---|--:|--|
 |Гусаков С.И.|  |![0%](https://progress-bar.xyz/0/?title=0)|
 |Емельяненко Е.А.|  |![0%](https://progress-bar.xyz/0/?title=-2&color=ff0000)|
-|Землянушнов Я.И.|  :+1::+1::+1:|![66%](https://progress-bar.xyz/66/?title=14)|
+|Землянушнов Я.И.|  :+1::+1::+1:|![85%](https://progress-bar.xyz/85/?title=18)|
 |Калашников В.А.|  |![0%](https://progress-bar.xyz/0/?title=-1&color=ff0000)|
 |Кокташев А.А.|  |![0%](https://progress-bar.xyz/0/?title=0)|
 |Конопелько Д.В.|  |![0%](https://progress-bar.xyz/0/?title=0)|
