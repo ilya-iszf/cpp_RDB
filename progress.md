@@ -11,12 +11,12 @@
 |---|--:|--|
 |Гусаков С.И.|  |![0%](https://progress-bar.xyz/0/?title=-1&color=ff0000)|
 |Емельяненко Е.А.|  |![0%](https://progress-bar.xyz/0/?title=-3&color=ff0000)|
-|Землянушнов Я.И.|  :+1::+1::+1:|![85%](https://progress-bar.xyz/85/?title=18)|
+|Землянушнов Я.И.|  :+1::+1::+1::star:|![104%](https://progress-bar.xyz/104/?title=зчт)|
 |Калашников В.А.|  |![0%](https://progress-bar.xyz/0/?title=-2&color=ff0000)|
 |Кокташев А.А.|  |![0%](https://progress-bar.xyz/0/?title=-1&color=ff0000)|
 |Конопелько Д.В.|  |![0%](https://progress-bar.xyz/0/?title=-1&color=ff0000)|
 |Кузнецов А.Е.|  |![0%](https://progress-bar.xyz/0/?title=-1&color=ff0000)|
-|Мансуров Б.Р.|  :+1::+1::+1:|![61%](https://progress-bar.xyz/61/?title=13)|
+|Мансуров Б.Р.|  :+1::+1::+1::star:|![100%](https://progress-bar.xyz/100/?title=зчт)|
 |Соколов В.А.|  |![0%](https://progress-bar.xyz/0/?title=-1&color=ff0000)|
 |Тубчинов А.В.|  |![0%](https://progress-bar.xyz/0/?title=-1&color=ff0000)|
 |Тугов Д.А.|  |![0%](https://progress-bar.xyz/0/?title=0)|
