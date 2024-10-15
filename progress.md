@@ -16,9 +16,9 @@
 |Кокташев А.А.|  |![0%](https://progress-bar.xyz/0/?title=-1&color=ff0000)|
 |Конопелько Д.В.|  |![0%](https://progress-bar.xyz/0/?title=-1&color=ff0000)|
 |Кузнецов А.Е.|  |![0%](https://progress-bar.xyz/0/?title=-1&color=ff0000)|
-|Мансуров Б.Р.|  :+1::+1::+1::star:|![100%](https://progress-bar.xyz/100/?title=зчт)|
+|Мансуров Б.Р.|  :+1::+1::+1::star:|![104%](https://progress-bar.xyz/104/?title=зчт)|
 |Соколов В.А.|  |![0%](https://progress-bar.xyz/0/?title=-1&color=ff0000)|
 |Тубчинов А.В.|  |![0%](https://progress-bar.xyz/0/?title=-1&color=ff0000)|
-|Тугов Д.А.|  |![0%](https://progress-bar.xyz/0/?title=0)|
+|Тугов Д.А.|  :+1::+1::star:|![52%](https://progress-bar.xyz/52/?title=11)|
 |Шерстянников С.А.|  |![0%](https://progress-bar.xyz/0/?title=-2&color=ff0000)|
 |Шестернина С.Е.|  |![0%](https://progress-bar.xyz/0/?title=-3&color=ff0000)|
