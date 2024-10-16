@@ -9,7 +9,7 @@
 Прогресс в выполнении заданий 
 |ФИО| доп. | Выполнено|
 |---|--:|--|
-|Гусаков С.И.|  |![0%](https://progress-bar.xyz/0/?title=-1&color=ff0000)|
+|Гусаков С.И.|  :+1::+1::+1:|![57%](https://progress-bar.xyz/57/?title=12)|
 |Емельяненко Е.А.|  |![0%](https://progress-bar.xyz/0/?title=-3&color=ff0000)|
 |Землянушнов Я.И.|  :+1::+1::+1::star:|![104%](https://progress-bar.xyz/104/?title=зчт)|
 |Калашников В.А.|  |![0%](https://progress-bar.xyz/0/?title=-2&color=ff0000)|
