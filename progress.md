@@ -14,4 +14,4 @@
 |Гарри П.|  :star:|![104%](https://progress-bar.xyz/104/?title=зчт)|
 |Невил Д.|  |![0%](https://progress-bar.xyz/0/?title=-8&color=ff0000)|
 |Полумна Л.|  :+1::+1::+1:|![100%](https://progress-bar.xyz/100/?title=зчт)|
-|Драко М.|  |![100%](https://progress-bar.xyz/100/?title=зчт)|
+|Драко М.|  |![100%](https://progress-bar.xyz/50/?title=11)|
