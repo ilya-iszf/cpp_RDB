@@ -17,5 +17,5 @@
 |Лунёнок С.В.|  :+1::+1::+1:|![90%](https://progress-bar.xyz/90/?title=19)|
 |Макаров А.П.|  |![4%](https://progress-bar.xyz/4/?title=1)|
 |Сиднев Е.А.|  |![9%](https://progress-bar.xyz/9/?title=2)|
-|Шаруненко И.П.|  |![0%](https://progress-bar.xyz/0/?title=0)|
+|Шаруненко И.П.|  |![14%](https://progress-bar.xyz/14/?title=3)|
 |Штельмах Н.Н.|  |![0%](https://progress-bar.xyz/0/?title=-2&color=ff0000)|
