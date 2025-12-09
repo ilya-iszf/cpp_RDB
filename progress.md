@@ -1,4 +1,4 @@
-Количество баллов и процент от необходимого за выполнение [заданий](tasks.md)
+<img width="406" height="344" alt="image" src="https://github.com/user-attachments/assets/a79d5221-3223-4235-9b8e-25bf644a9302" />Количество баллов и процент от необходимого за выполнение [заданий](tasks.md)
 
 средние :+1:
 
@@ -9,13 +9,13 @@
 Прогресс в выполнении заданий 
 |ФИО| доп. | Выполнено|
 |---|--:|--|
-|Беляцкий А.В.|  |![0%](https://progress-bar.xyz/0/?title=-2&color=ff0000)|
-|Гунтинович Н.В.|  |![0%](https://progress-bar.xyz/0/?title=0)|
-|Калягин А.А.|  |![4%](https://progress-bar.xyz/4/?title=1)|
-|Ким В.О.|  :+1::+1:|![28%](https://progress-bar.xyz/28/?title=6)|
+|Беляцкий А.В.|  :+1::+1:|![95%](https://progress-bar.xyz/95/?title=20)|
+|Гунтинович Н.В.|  |![0%](https://progress-bar.xyz/0/?title=-1&color=ff0000)|
+|Калягин А.А.|  :+1::+1:|![71%](https://progress-bar.xyz/71/?title=15)|
+|Ким В.О.|  :+1::+1:|![100%](https://progress-bar.xyz/100/?title=зчт)|
 |Кокорин М.В.|  |![14%](https://progress-bar.xyz/14/?title=3)|
 |Лунёнок С.В.|  :+1::+1::+1:|![100%](https://progress-bar.xyz/100/?title=зчт)|
-|Макаров А.П.|  |![42%](https://progress-bar.xyz/42/?title=9)|
-|Сиднев Е.А.|  |![52%](https://progress-bar.xyz/52/?title=11)|
-|Шаруненко И.П.|  :+1:|![57%](https://progress-bar.xyz/57/?title=12)|
-|Штельмах Н.Н.|  |![0%](https://progress-bar.xyz/0/?title=-6&color=ff0000)|
+|Макаров А.П.|  :+1::+1::+1:|![104%](https://progress-bar.xyz/104/?title=зчт)|
+|Сиднев Е.А.|  :+1::+1::+1:|![100%](https://progress-bar.xyz/100/?title=зчт)|
+|Шаруненко И.П.|  :+1::+1:|![100%](https://progress-bar.xyz/100/?title=зчт)|
+|Штельмах Н.Н.|  :+1::+1::+1:|![100%](https://progress-bar.xyz/100/?title=зчт)|
