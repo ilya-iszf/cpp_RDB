@@ -9,9 +9,9 @@
 Прогресс в выполнении заданий 
 |ФИО| доп. | Выполнено|
 |---|--:|--|
-|Беляцкий А.В.|  :+1::+1::+1:|![109%](https://progress-bar.xyz/109/?title=зчт)|
+|Беляцкий А.В.|  :+1::+1:|![95%](https://progress-bar.xyz/95/?title=20)|
 |Гунтинович Н.В.|  :+1:|![100%](https://progress-bar.xyz/100/?title=зчт)|
-|Калягин А.А.|  :+1::+1:|![71%](https://progress-bar.xyz/71/?title=15)|
+|Калягин А.А.|  :+1::+1::+1:|![104%](https://progress-bar.xyz/104/?title=зчт)|
 |Ким В.О.|  :+1::+1:|![100%](https://progress-bar.xyz/100/?title=зчт)|
 |Кокорин М.В.|  |![14%](https://progress-bar.xyz/14/?title=3)|
 |Лунёнок С.В.|  :+1::+1::+1:|![100%](https://progress-bar.xyz/100/?title=зчт)|
