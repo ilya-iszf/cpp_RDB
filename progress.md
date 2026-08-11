@@ -7,15 +7,10 @@
 про :fire: 
 
 Прогресс в выполнении заданий 
-|ФИО| доп. | Выполнено|
-|---|--:|--|
-|Беляцкий А.В.|  :+1::+1::+1:|![109%](https://progress-bar.xyz/109/?title=зчт)|
-|Гунтинович Н.В.|  :+1:|![100%](https://progress-bar.xyz/100/?title=зчт)|
-|Калягин А.А.|  :+1::+1::+1:|![104%](https://progress-bar.xyz/104/?title=зчт)|
-|Ким В.О.|  :+1::+1:|![100%](https://progress-bar.xyz/100/?title=зчт)|
-|Кокорин М.В.|  |![14%](https://progress-bar.xyz/14/?title=3)|
-|Лунёнок С.В.|  :+1::+1::+1:|![100%](https://progress-bar.xyz/100/?title=зчт)|
-|Макаров А.П.|  :+1::+1::+1:|![104%](https://progress-bar.xyz/104/?title=зчт)|
-|Сиднев Е.А.|  :+1::+1::+1:|![100%](https://progress-bar.xyz/100/?title=зчт)|
-|Шаруненко И.П.|  :+1::+1:|![100%](https://progress-bar.xyz/100/?title=зчт)|
-|Штельмах Н.Н.|  :+1::+1::+1:|![100%](https://progress-bar.xyz/100/?title=зчт)|
+|ФИО|git| доп. | Выполнено| не приняты |
+|---|---|--:|--|--|
+|Иванов И.И.| :heavy_check_mark:|  |![0%](https://progress-bar.xyz/0/?title=-4&color=ff0000)| |
+|Петров П.П.| :heavy_check_mark:|  :+1::+1::star::fire:|![100%](https://progress-bar.xyz/100/?title=зчт)| |
+|Летов И.Ф.| :heavy_check_mark:|  :+1::fire:|![104%](https://progress-bar.xyz/104/?title=зчт)| |
+|Федоров М.Я.| :heavy_check_mark:|  :fire::fire:|![87%](https://progress-bar.xyz/87/?title=зчт)| |
+|Машнов В.В| :heavy_check_mark:|  :star::star::star:|![104%](https://progress-bar.xyz/104/?title=зчт)||
